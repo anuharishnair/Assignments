@@ -1,0 +1,13 @@
+{
+	"folders": [
+		{
+			"name": "FourCorners",
+			"path": "../DBSQL/FourCorners"
+		}
+	],
+	"settings": {
+		"dataworkspace.excludedProjects": [
+			"FourCorners.sqlproj"
+		]
+	}
+}
